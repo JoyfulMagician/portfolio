@@ -15,7 +15,7 @@ export default function Home() {
         </div>
         <div className="flex flex-col">
           <h1 className="text-6xl font-bold text-gray-900">
-            I’m <span className="text-teal-500">Husnain</span>
+            I’m <span className="text-teal-500">Isabella</span>
           </h1>
           <p className="text-lg mt-4 text-gray-700">
             I’m a Web Developer, App Developer, UX/UI Designer and Video Editor.
